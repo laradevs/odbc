@@ -1,4 +1,4 @@
-<?php namespace Laradevs\Odbc;
+<?php namespace LaraDevs\Odbc;
 
 use Illuminate\Database\Connectors\Connector;
 use Illuminate\Database\Connectors\ConnectorInterface;

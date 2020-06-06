@@ -1,4 +1,4 @@
-<?php namespace Laradevs\Odbc;
+<?php namespace LaraDevs\Odbc;
 
 use Illuminate\Database\Connection;
 
